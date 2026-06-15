@@ -8,4 +8,4 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     });
 });
 
-console.log("✅ Wajiha Khan Portfolio Loaded");
+console.log("Wajiha Khan Portfolio Loaded");
